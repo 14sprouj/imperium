@@ -1,0 +1,12 @@
+._*
+carmina/jingles/*
+carmina/sfx/*
+carmina/songs/*
+.DS_Store
+vendor/*/*
+bootstrap-select*/*
+hidden/*
+error_log
+*.zip
+permission levels.txt
+countries list.txt
